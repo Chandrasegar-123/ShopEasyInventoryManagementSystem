@@ -1,0 +1,6 @@
+@ShopEasyIMS_HostAddress = http://localhost:5296
+
+GET {{ShopEasyIMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
